@@ -5,8 +5,8 @@ Welcome contact me to discuss if you are interested in the field of human pose r
 ## Contact Information
 
 **Address:**  School of Computer Science and Engineering,  
-              Nanjing University of Science and Technology,  
-              Nanjing, 210094, P.R. China
+  Nanjing University of Science and Technology,  
+  Nanjing, 210094, P.R. China
               
 **Phone(Office):**  +86 25 8431 5017
 
