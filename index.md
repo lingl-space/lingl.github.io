@@ -66,7 +66,7 @@ Activities in Academic Conferences:
 
 2.Jingchen Ke, Chen Gong, Tongliang Liu, Lin Zhao, Jian Yang, Dacheng Tao. [Laplacian Welsch Regularization for Robust Semisupervised Learning](https://gcatnjust.github.io/ChenGong/paper/ke_tcyb19.pdf), IEEE Transactions on Cybernetics, 2020, DOI: 10.1109/TCYB.2019.2953337.
 
-3.Lin Zhao, Jie Xu, Shanshan Zhang, Chen Gong, Jian Yang, Xinbo Gao. Perceiving heavily occluded human poses by assigning unbiased score, Information Science, 2020, 537(10): 284-301.
+3.Lin Zhao, Jie Xu, Shanshan Zhang, Chen Gong, Jian Yang, Xinbo Gao. [Perceiving heavily occluded human poses by assigning unbiased score](https://www.sciencedirect.com/science/article/pii/S0020025520305119), Information Science, 2020, 537(10): 284-301.
 
 4.Lin Zhao, Meimei Shang, Fei Gao, Rongsheng Li, Fei Huang, Jun Yu. Representation learning of image composition for aesthetic prediction, Computer Vision and Image Understanding, 2020, 199(10): 103024.
 
