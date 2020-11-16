@@ -44,9 +44,7 @@ Sep 2017-Present     **Assistant Professor, School of Computer Science and Engin
 
 3.Anomaly Detection in Videos Based on Future Behavior Prediction, supported by the Fundamental Research Funds for the Central Universities (Grant No. 30918014107; Duration: Sep 2019-Aug 2021), Principal Investigator
 
-![人体pose图](/img/hernet1.jpg "Pose I")
-
-![人体pose图](/img/hernet2.jpg "Pose II")
+![人体pose图](/img/hernet1.jpg "Pose I")&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  ![人体pose图](/img/hernet2.jpg "Pose II")
 
 ## Professional Activities
 
