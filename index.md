@@ -21,11 +21,11 @@ Welcome contact me to discuss if you are interested in the field of human pose r
 **Web:**  
 
 ## Education
-
+  
 1.Sep 2011 - Jun 2017  **Ph.D. in Pattern Recognition and Intelligence System, School of Electric Engineering, Xidian University**
-
+  
 2.Sep 2010 - Jun 2011  **M.S. in Pattern Recognition and Intelligence System, School of Electric Engineering, Xidian University**
-
+  
 3.Sep 1991 - Jul 1995  **B.S. in Electric and information Engineering, School of Electric Engineering, Xidian University**
 
 ## Professional Experience
@@ -50,8 +50,9 @@ Associate editors of the following journals:
 
 Guest Editor:
 
-Reviewers of the following journals:
-  IEEE Transactions on Circuits and Systems for Video Technology
+Reviewers of the following journals:  
+
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  IEEE Transactions on Circuits and Systems for Video Technology
   
 Activities in Academic Conferences:
 
@@ -63,7 +64,7 @@ Activities in Academic Conferences:
 
 1.Lin Zhao, Jie Xu, Chen Gong, Jian Yang, Mengwang Zuo, Xinbo Gao. Learning to Acquire the Quality of Human Pose Estimation, IEEE Transactions on Circuits and Systems for Video Technology, 2020, DOI: 10.1109/TCSVT.2020.3005522.
 
-2.Jingchen Ke, Chen Gong, Tongliang Liu, Lin Zhao, Jian Yang, Dacheng Tao. Laplacian Welsch Regularization for Robust Semisupervised Learning, IEEE Transactions on Cybernetics, 2020, DOI: 10.1109/TCYB.2019.2953337.
+2.Jingchen Ke, Chen Gong, Tongliang Liu, Lin Zhao, Jian Yang, Dacheng Tao. [Laplacian Welsch Regularization for Robust Semisupervised Learning](https://gcatnjust.github.io/ChenGong/paper/ke_tcyb19.pdf), IEEE Transactions on Cybernetics, 2020, DOI: 10.1109/TCYB.2019.2953337.
 
 3.Lin Zhao, Jie Xu, Shanshan Zhang, Chen Gong, Jian Yang, Xinbo Gao. Perceiving heavily occluded human poses by assigning unbiased score, Information Science, 2020, 537(10): 284-301.
 
